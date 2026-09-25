@@ -38,22 +38,10 @@ The goal is not perfection.
 
 The goal is consistency.
 
-## 🔥 Challenge
+## 🌱 Day 1 → ∞
 
-### 100 Days of Technical Growth
+The goal isn't to finish.
 
-One day.
-
-One contribution.
-
-Every day.
-
----
-
-## 📊 Progress
-
-**Current Day:** 1 / 100
-
-**Current Streak:** 🔥 1 day
+The goal is to keep learning.
 
 **Total Contributions:** 1
